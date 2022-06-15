@@ -1,0 +1,6 @@
+all
+yellow
+blue
+black
+red
+green
